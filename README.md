@@ -1,6 +1,6 @@
-## 👋 Hi, I’m @mjackson16
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning about web design systems
+## 👋 Hi, I’m Matthew
+- 👀 I’m interested in Information Technology
+- 🌱 I’m currently learning about ITIL and ServiceNow
 
 
 <!---
