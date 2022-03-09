@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Matthew
 - 👀 I’m interested in Information Technology
-- 🌱 I’m currently learning about ITIL and ServiceNow
+- 🌱 I’m currently working as a ServiceNow System Administrator
 
 
 <!---
